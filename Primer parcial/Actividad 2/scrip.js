@@ -21,7 +21,12 @@ function cargarDatos() { //cargar los datos y mostrarlos en la tabla.
 
                 //inserta los registros en las celdas del archivo JSON.
                 celdaAlimento.textContent = element.Alimento; //los element "Alimento" y "Proteína", son las propiedades de cada elemento en el array "data".
-                celdaProteina.textContent = element['Proteína por cada 100 g de alimento']; //
+                
+                /*al tener una propiedad  con espacios proboca error en la sintaxis pero al usar 
+                corchetes lo que permite especificar el nombre de la propiedad como una cadena lo
+                que evita el conficto de la sintaxis con el nombre de la propiedad.*/
+                celdaProteina.textContent = element['Proteína por cada 100 g de alimento']; 
+                
             });
         })
         .catch(error => console.error('Error:', error)); //si tiene errores lo muestra.
