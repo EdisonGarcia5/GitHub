@@ -24,15 +24,17 @@
         </header>
         <main>
             <div class="container">
-                <h1>TOP 15 DE PROTEÍNAS DE ORIGEN VEGETAL</h1>
-                    <table class="table" id="comidaVegetal">
+                <h1>TOP 15 DE PROTEÍNAS DE ORIGEN VEGETAL</h1> <!--titulo principal-->
+                    <!--se crea una clase con un nombre y se le asigna un identificador-->
+                    <table class="table" id="comidaVegetal"> 
                         <thead>
                             <tr>
-                                <th scope="col">Alimento</th>
+                                <th scope="col">Alimento</th> 
                                 <th scope="col">Proteína</th>
                             </tr>
                         </thead>
-                        <tbody id="tableComida">
+                        <tbody id="tableComida"> <!--el "tbody" es el cuerpo de la tabla (registros de la tabla) 
+                            pero en esta ocasión se van a extraer lo datos desde un archivo JavaScript. -->
                         </tbody>
                     </table>
             </div>
@@ -55,6 +57,6 @@
             crossorigin="anonymous"
         ></script>
 
-        <script src="scrip.js"></script>
+        <script src="scrip.js"></script> <!-- carga y ejecuta el archivo 'scrip.js'. -->
     </body>
 </html>
