@@ -1,62 +1,62 @@
 [
   {
     "Alimento": "Proteína Whey",
-    "Proteína": "80 g"
+    "Proteína por cada 100 g de alimento": "80 g"
   },
   {
     "Alimento": "Carne desecada de ternera",
-    "Proteína": "55 g"
+    "Proteína por cada 100 g de alimento": "55 g"
   },
   {
     "Alimento": "Jamón serrano",
-    "Proteína": "30 g"
+    "Proteína por cada 100 g de alimento": "30 g"
   },
   {
     "Alimento": "Queso harzer",
-    "Proteína": "30 g"
+    "Proteína por cada 100 g de alimento": "30 g"
   },
   {
     "Alimento": "Anchoas",
-    "Proteína": "29 g"
+    "Proteína por cada 100 g de alimento": "29 g"
   },
   {
     "Alimento": "Atún de lata al natural",
-    "Proteína": "26 g"
+    "Proteína por cada 100 g de alimento": "26 g"
   },
   {
     "Alimento": "Queso camembert",
-    "Proteína": "24 g"
+    "Proteína por cada 100 g de alimento": "24 g"
   },
   {
     "Alimento": "Carne de ciervo",
-    "Proteína": "23 g"
+    "Proteína por cada 100 g de alimento": "23 g"
   },
   {
     "Alimento": "Pechuga de pavo",
-    "Proteína": "23 g"
+    "Proteína por cada 100 g de alimento": "23 g"
   },
   {
     "Alimento": "Ternera",
-    "Proteína": "21,2 g"
+    "Proteína por cada 100 g de alimento": "21,2 g"
   },
   {
     "Alimento": "Gambas",
-    "Proteína": "18,5 g"
+    "Proteína por cada 100 g de alimento": "18,5 g"
   },
   {
     "Alimento": "Requesón",
-    "Proteína": "13 g"
+    "Proteína por cada 100 g de alimento": "13 g"
   },
   {
     "Alimento": "Cuajada baja en grasas",
-    "Proteína": "12,6 g"
+    "Proteína por cada 100 g de alimento": "12,6 g"
   },
   {
     "Alimento": "Clara de huevo",
-    "Proteína": "11 g"
+    "Proteína por cada 100 g de alimento": "11 g"
   },
   {
     "Alimento": "Yogur 1,5 %",
-    "Proteína": "3 g"
+    "Proteína por cada 100 g de alimento": "3 g"
   }
 ]
